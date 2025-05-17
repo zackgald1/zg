@@ -10,7 +10,7 @@ Welcome! I'm a Robotics Engineering student at Arizona State University, graduat
 
 <div style="text-align: center;">
   <img src="images/index-pic.jpg" width="400"/>
-  <p><em>Me with the girlfriend 💙</em></p>
+  <p><em>Me with the girlfriend </em></p>
 </div>
 
 ---
